@@ -1,0 +1,22 @@
+{
+  "name": "twitch-chat-bot",
+  "version": "1.0.0",
+  "description": "A basic Twitch chat bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stevegarden/twitch-chat-bot.git"
+  },
+  "author": "Stevegarden",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/Stevegarden/twitch-chat-bot/issues"
+  },
+  "homepage": "https://github.com/Stevegarden/twitch-chat-bot#readme",
+  "dependencies": {
+    "tmi.js": "^1.5.0"
+  }
+}
